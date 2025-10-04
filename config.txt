@@ -1,0 +1,4 @@
+org.example.dao.DaoImpl
+org.example.metier.MetierImpl
+org.example.dao.DaoImpl2
+org.example.metier.MetierImpl2
